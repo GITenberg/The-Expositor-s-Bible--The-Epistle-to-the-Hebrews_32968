@@ -1,0 +1,37 @@
+_repo: The-Expositor-s-Bible--The-Epistle-to-the-Hebrews_32968
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Edwards, Thomas Charles
+    alias: Edwards, T. C. (Thomas Charles)
+    birthdate: 1837
+    deathdate: 1900
+    gutenberg_agent_id: '36132'
+    url: http://www.gutenberg.org/2009/agents/36132
+  editor:
+    agent_name: Nicoll, W. Robertson (William Robertson), Sir
+    aliases:
+    - Clear, Claudius
+    - Wace, Walter E.
+    - Nicoll, William Robertson, Sir
+    birthdate: 1851
+    deathdate: 1923
+    gutenberg_agent_id: '36133'
+    url: http://www.gutenberg.org/2009/agents/36133
+description: ''
+gutenberg_issued: '2010-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32968'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Bible. Hebrews -- Criticism, interpretation, etc.'
+title: 'The Expositor''s Bible: The Epistle to the Hebrews'
+url: http://www.gutenberg.org/ebooks/32968
